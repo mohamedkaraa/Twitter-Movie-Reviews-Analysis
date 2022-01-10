@@ -1,20 +1,16 @@
 <h1 align="center">
   <br>
-
     Twitter Movie Reviews Analysis
-
 </h1>
-
 <div align="center">
-  <h3>
-    <a href="#Overview">Overview</a> |
-    <a href="#Prerequisites">Prerequisites</a> |
-    <a href="#How to run">How to run</a> |
-    <a href="#Data preprocessing">Data preprocessing</a> |
-    <a href="#Spark ML pipeline">Spark ML pipeline</a> 
-  </h3>
+  <h4>
+    <a href="#overview">Overview</a> |
+    <a href="#prerequisites">Prerequisites</a> |
+    <a href="#how-to-run">How to run</a> |
+    <a href="#data-preprocessing">Data preprocessing</a> |
+    <a href="#Spark-ml-pipeline">Spark ML pipeline</a> 
+  </h4>
 </div>
-
 <br>
 
 ## Overview
