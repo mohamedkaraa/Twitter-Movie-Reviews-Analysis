@@ -79,10 +79,9 @@ cd PATH_TO_SPARK
 ```
 ### Launch dashboard
 1. Open http://localhost:5601/ in your browser.
-2. Create index twitter*.
-3. Go to Management>Kibana>Saved Objects
-4. Import [dashboard.ndjson](kibana/dashboard.ndjson)
-5. Open dashboard
+2. Go to Management>Kibana>Saved Objects
+3. Import [dashboard.ndjson](kibana/dashboard.ndjson)
+4. Open dashboard
 
 ## Data preprocessing
 Before performing sentiment analysis, the scrapped tweets undergo a cleaning process:
