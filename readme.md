@@ -62,6 +62,11 @@ bin/kafka-server-start.sh config/server.properties
 ```
 
 ### Execute python files
+
+1. install requirements
+```shell
+pip install -r requirements.txt
+```
 1. producer.py  (to launch search and tweet extraction)
 ``` shell
 python3 producer.py --movie_title="movie title" --twitter_consumer_key="your twitter consumer key" --twitter_consumer_secret="your twitter consumer secret" --twitter_access_token="your twitter access token" --twitter_access_token_secret="your twitter access token secret"
