@@ -1,0 +1,6 @@
+pyspark
+elasticsearch
+imdb
+tweepy
+kafka
+numpy
