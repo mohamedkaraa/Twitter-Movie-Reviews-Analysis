@@ -8,7 +8,8 @@
     <a href="#prerequisites">Prerequisites</a> |
     <a href="#how-to-run">How to run</a> |
     <a href="#data-preprocessing">Data preprocessing</a> |
-    <a href="#Spark-ml-pipeline">Spark ML pipeline</a> 
+    <a href="#spark-ml-pipeline">Spark ML pipeline</a> |
+    <a href="#contribution">Contribution</a>
   </h4>
 </div>
 <br>
@@ -100,3 +101,9 @@ The Spark ML pipeline consists of 5 stages
 5. Logistic regression model
 
 The model is then trained on a [dataset](dataset/movies.csv) containing tweets from IMDb and rotten tomatoes and classified to positive or negative.
+
+## Contribution
+
+<a href="https://github.com/mohamedkaraa/Twitter-Movie-Reviews-Analysis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mohamedkaraa/Twitter-Movie-Reviews-Analysis" />
+</a>
